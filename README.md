@@ -1,8 +1,19 @@
-# React + Vite
+# Rocketnotes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://marciodev.com.br/projetos/Capa.png" alt="Exemplo imagem">
 
-Currently, two official plugins are available:
+> Este projeto tem como objetivo armazenar seus links favoritos. Nele, você pode criar notas, adicionar comentários e categorizá-los para uma melhor organização.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [x] Preparando o ambiente
+- [x] Desenvolvimento do front-end
+- [ ] Criar as interações com o Back-end
+- [ ] Realizar o Deploy
+
+
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
